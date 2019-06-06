@@ -20,4 +20,12 @@ Designing undergraduate biology course materials that are **structured using the
 
 Implementing a population dynamic simulation, informed by bioenergetic models, that **estimates the impacts of invasive carp on native paddlefish** in the Mississippi River.
 
+<p align = "center">
 
+<img src="images/oldfield.jpg"><br>
+
+<img src="images/oldfieldsetup.jpg"><br>
+
+<img src="images/conetainers.jpg">
+
+</p>
