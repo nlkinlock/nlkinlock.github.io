@@ -38,17 +38,4 @@ $on-laptop:        800px;
 // Import partials from the `minima` theme.
 @import "{{ site.theme }}";
 
-link{color:#044DBD;;
-        }
 
-link:hover {
-    opacity:0.5;
-}
-
-.socmed img {
-    opacity: 1.0;
-}
-
-.socmed:hover {
-    opacity:0.5;
-}

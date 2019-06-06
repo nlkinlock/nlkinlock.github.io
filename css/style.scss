@@ -1,0 +1,23 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body{
+font-family: 'Source Sans Pro', sans-serif;
+}
+
+link{color:#044DBD;;
+        }
+
+link:hover {
+    opacity:0.5;
+}
+
+.socmed img {
+    opacity: 1.0;
+}
+
+.socmed:hover {
+    opacity:0.5;
+}
