@@ -13,7 +13,7 @@ $base-line-height: 1.5;
 $spacing-unit:     30px;
 
 $text-color:       #000000;
-$background-color: #fdfdfd;
+$background-color: #ffffff;
 $brand-color:      #044DBD;
 
 $grey-color:       #828282;
@@ -38,6 +38,17 @@ $on-laptop:        800px;
 // Import partials from the `minima` theme.
 @import "{{ site.theme }}";
 
-#socmed:hover {
+link{color:#044DBD;;
+        }
+
+link:hover {
+    opacity:0.5;
+}
+
+.socmed img {
+    opacity: 1.0;
+}
+
+.socmed:hover {
     opacity:0.5;
 }
