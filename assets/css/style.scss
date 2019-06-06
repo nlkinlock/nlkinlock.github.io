@@ -1,0 +1,75 @@
+---
+---
+
+@import "jekyll-theme-tactile";
+
+
+html,body,code,form {
+	font-family: 'Source Sans Pro', sans-serif;
+	background: #ffffff;
+}
+
+.highlight {
+	font-family: 'Nunito', sans-serif;
+	background: #ffffff;
+}
+
+#container {
+	font-family: 'Source Sans Pro', sans-serif;
+	background: #ffffff;
+}
+
+a {
+  font-weight: normal;
+  color: #044DBD;
+}
+
+a:hover {
+	color: #044DBD
+}
+
+
+form {
+  background: #ffffff;
+}
+
+hr {
+	border: 0;
+	height: 0;
+	line-height:0;
+	padding-bottom: 0;
+	margin-top: 0;
+	border-bottom: 1px dashed #ccc;
+	background: #999;
+}
+
+
+footer {
+	border: 0;
+	height: 0;
+	line-height:0;
+	padding-top:0;
+	padding-bottom: 0;
+	margin-top: 0;
+	border-bottom: 1px dashed #ccc;
+	background: #999;
+}
+
+nav ul{
+  list-style-type: none;
+  margin: 0 10px;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+
+nav a {
+	font-size:1.5em;
+	opacity:1.0;
+}
+
+nav a:hover {
+	opacity:0.5;
+    }
+
