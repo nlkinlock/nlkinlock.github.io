@@ -183,6 +183,8 @@ footer a:hover { color: #444; }
   .inner { width: 94%; margin: 0 auto; } }
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+img.center { display: block; margin: 0 auto; }
+
 html, body, code, form { font-family: 'Source Sans Pro', sans-serif; background: #ffffff; }
 
 .highlight { font-family: 'Nunito', sans-serif; background: #ffffff; }
@@ -195,9 +197,9 @@ a:hover { color: #044DBD; }
 
 form { background: #ffffff; }
 
-hr { border: 0; height: 0; line-height: 0; padding-bottom: 0; margin-top: 0; border-bottom: 1px dashed #ccc; background: #999; }
+hr { border: 0; height: 0; line-height: 0; padding-bottom: 0; margin-top: 0; border-bottom: 1px dashed #ccc; background: #ffffff; }
 
-footer { border: 0; height: 0; line-height: 0; padding-top: 0; padding-bottom: 0; margin-top: 0; border-bottom: 1px dashed #ccc; background: #999; }
+footer { text-align: center; font-size: 0.5em; padding-bottom: 0; padding-top: 10px; margin-top: 0; border: 0; height: 0; line-height: 0; border-top: 1px dashed #ccc; background: #ffffff; }
 
 nav ul { list-style-type: none; margin: 0 10px; padding: 0; display: flex; justify-content: space-around; }
 
