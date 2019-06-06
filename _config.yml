@@ -13,4 +13,4 @@ gems:
 
 # Build settings
 markdown: kramdown
-theme: Tactile
+theme: jekyll-theme-tactile
