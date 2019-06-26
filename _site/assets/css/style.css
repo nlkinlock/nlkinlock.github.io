@@ -193,7 +193,7 @@ html, body, code, form { font-family: 'Source Sans Pro', sans-serif; background:
 
 a { font-weight: normal; color: #044DBD; }
 
-a:hover { color: #044DBD; }
+a:hover { opacity: 0.5; color: #044DBD; }
 
 form { background: #ffffff; }
 
@@ -201,8 +201,8 @@ hr { border: 0; height: 0; line-height: 0; padding-bottom: 0; margin-top: 0; bor
 
 footer { text-align: center; font-size: 0.5em; padding-bottom: 0; padding-top: 10px; margin-top: 0; border: 0; height: 0; line-height: 0; border-top: 1px dashed #ccc; background: #ffffff; }
 
-nav ul { list-style-type: none; margin: 0 10px; padding: 0; display: flex; justify-content: space-around; }
+.flex-container { flex-direction: row; padding: 0; margin: 0; list-style: none; justify-content: space-around; -ms-box-orient: horizontal; display: -webkit-box; display: -moz-box; display: -ms-flexbox; display: -moz-flex; display: -webkit-flex; display: flex; }
 
-nav a { font-size: 1.2em; opacity: 1.0; }
+.flex-item { list-style: none; padding: 0; margin: 10px; font-size: 1.5em; text-align: center; }
 
-nav a:hover { opacity: 0.5; }
+@media all and (max-width: 600px) { .flex-container { flex-wrap: wrap; } }
