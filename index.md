@@ -8,7 +8,7 @@ For my dissertation, I am using network approaches to quantify plant community s
 
 
 <p align="center">
-<img src="images/me.jpg">
+<img width="300" src="images/me.jpg">
 </p>
 
 
