@@ -79,3 +79,6 @@ nav a:hover {
 	opacity:0.5;
     }
 
+@media screen and (min-width: 768px){
+    .rwd-break { display: none; }
+    }
