@@ -2,8 +2,9 @@
 layout: default
 ---
 
+**Kinlock, NL**, L Prowant, EM Herstoff, CM Foley, M Akin-Fajiye, N Bender, M Umarani, HY Ryu,  B Sen, and J Gurevitch. <i>In press</i>. Open science and meta‐analysis allow for rapid advances in ecology: A response to Menegotto et al. (2019). *Global Ecology and Biogeography*. [[doi]](https://doi.org/10.1111/geb.12964)
 
-**Kinlock, NL**. <i>In press</i>. A meta-analysis of plant interaction networks reveals competitive hierarchies as well as facilitation and intransitivity. *The American Naturalist*.
+**Kinlock, NL**. <i>In press</i>. A meta-analysis of plant interaction networks reveals competitive hierarchies as well as facilitation and intransitivity. *The American Naturalist*. [[doi]](https://doi.org/10.1086/705293)
 
 Beckmann, M, K Gerstner, M Akin-Fajiye, S Ceausu, S Kambach, **NL Kinlock**, HRP Phillips, W Verhagen, J Gurevitch, S Klotz, T Newbold, PH Verburg, M Winter, and R Seppelt. Conventional land‐use intensification reduces species richness and increases production: A global meta‐analysis. *Global Change Biology*, 25(6): 1941-1956. [[doi]](https://doi.org/10.1111/gcb.14606)
 
