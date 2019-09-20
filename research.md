@@ -2,28 +2,31 @@
 layout: default
 ---
 
-*Research keywords*
+**Research keywords**
 
 <span style="color:#044DBD;">
-**plant community ecology, species interactions, spatial simulations, meta-analysis, network ecology, Bayesian hierarchical modeling**
+*plant community ecology, species interactions, spatial simulations, meta-analysis, network ecology, Bayesian hierarchical modeling*
 </span>
 
 
-*Dissertation work*
+**Dissertation work**
 
-**Meta-analysis of plant interaction networks**
+*Meta-analysis of plant interaction networks*
+
 Characterizing plant communities as networks and combining network metrics across many communities using meta-analysis to make generalizations about community structure with a quantitative foundation.
 
-**Fieldwork and greenhouse experiments to create an experimental plant interaction network**
+*Fieldwork and greenhouse experiments of plant interactions*
+
 Conducting large scale field and garden experiments in an old field woody plant community in order to compare community-level structure and interactions among invasive and native species using network theory.
 
 Quantifying pairwise and three-species interactions among invasive and native woody plants in greenhouse experiments to determine whether pairwise interactions can predict three-species interactions.
 
-**Spatial simulations of invaded plant communities**
+*Spatial simulations of invaded plant communities*
+
 Using large, stochastic spatial lattice simulations, invading plant communities to understand what aspects of community structure influence invasibility, as well as how invaders change community structure. These simulations are implemented using a parallelized C++ program that I co-wrote, [ecolattice](https://github.com/dsjamieson/ecolattice).
 
 
-*Other projects*
+**Other projects**
 
 Using meta-analysis to quantify evidence and to document patterns about well-known ecological phenomena: including the latitudinal diversity gradient and the correlation between native and exotic species richness at many spatial scales and extents.
 
