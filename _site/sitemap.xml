@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/cv</loc>
+<loc>http://nlkinlock.github.io/cv</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>http://nlkinlock.github.io/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/publications</loc>
+<loc>http://nlkinlock.github.io/publications</loc>
 </url>
 <url>
-<loc>http://localhost:4000/research</loc>
+<loc>http://nlkinlock.github.io/research</loc>
 </url>
 <url>
-<loc>http://localhost:4000/docs/CV.pdf</loc>
+<loc>http://nlkinlock.github.io/docs/CV.pdf</loc>
 <lastmod>2019-08-30T20:39:08-04:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/docs/Peng_et_al_2019_Ecology.pdf</loc>
+<loc>http://nlkinlock.github.io/docs/Peng_et_al_2019_Ecology.pdf</loc>
 <lastmod>2019-01-11T13:31:39-05:00</lastmod>
 </url>
 </urlset>
