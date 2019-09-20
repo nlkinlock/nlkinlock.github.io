@@ -4,7 +4,7 @@ layout: default
 
 *Research keywords*
 
-<span style="color:#d9424a;">
+<span style="color:#044DBD;">
 **plant community ecology, species interactions, spatial simulations, meta-analysis, network ecology, Bayesian hierarchical modeling**
 </span>
 
