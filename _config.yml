@@ -6,7 +6,7 @@ url: "http://nlkinlock.github.io" # the base hostname & protocol for your site
 twitter_username: nlkinlock
 github_username:  nlkinlock
 permalink: /blog/:year/:month/:title.html
-gems:
+plugins:
   - jekyll-sitemap
 
 # Build settings
