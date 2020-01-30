@@ -1,15 +1,17 @@
 # Site settings
-title: Nicole L. Kinlock
+title: Nicole Kinlock
+description: "Ph.D. candidate at Stony Brook University studying plant community ecology"
 email: nlkinlock@gmail.com
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 github: [metadata]
 url: "https://nlkinlock.github.io" # the base hostname & protocol for your site
 twitter_username: nlkinlock
 github_username:  nlkinlock
-permalink: /blog/:year/:month/:title.html
+permalink: /blog/:title/
 plugins:
   - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-tactile
+
