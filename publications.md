@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**Kinlock, NL**. 2019. A meta-analysis of plant interaction networks reveals competitive hierarchies as well as facilitation and intransitivity. *The American Naturalist*, 194(5): 640-653. [[doi]](https://doi.org/10.1086/705293)
+**Kinlock, NL**. 2019. A meta-analysis of plant interaction networks reveals competitive hierarchies as well as facilitation and intransitivity. *The American Naturalist*, 194(5): 640-653. [[PDF]](/docs/Kinlock_2019_AmNat.pdf) [[doi]](https://doi.org/10.1086/705293)
 
 **Kinlock, NL**, L Prowant, EM Herstoff, CM Foley, M Akin-Fajiye, N Bender, M Umarani, HY Ryu,  B Sen, and J Gurevitch. 2019. Open science and meta‐analysis allow for rapid advances in ecology: A response to Menegotto et al. (2019). *Global Ecology and Biogeography*, 28(10): 1533-1534. [[doi]](https://doi.org/10.1111/geb.12964)
 

@@ -2,7 +2,8 @@
 title: Nicole L. Kinlock
 email: nlkinlock@gmail.com
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "http://nlkinlock.github.io" # the base hostname & protocol for your site
+github: [metadata]
+url: "https://nlkinlock.github.io" # the base hostname & protocol for your site
 twitter_username: nlkinlock
 github_username:  nlkinlock
 permalink: /blog/:year/:month/:title.html
