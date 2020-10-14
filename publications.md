@@ -4,7 +4,7 @@ layout: default
 
 **Kinlock, NL**. *in press*. Uncovering structural features that underlie coexistence in an invaded woody plant community with interaction networks at multiple life stages. *Journal of Ecology*. [[doi]](https://doi.org/10.1111/1365-2745.13489)
 
-**Kinlock, NL**, AJ Laybourn, CE Murphy, JJ Hoover, and NA Friedenberg. 2020. Modelling bioenergetic and population‐level impacts of invasive bigheaded carps (*Hypophthalmichthys* spp.) on native paddlefish (*Polyodon spathula*) in backwaters of the lower Mississippi River. *Freshwater Biology*, 65: 1086-1100. [[[PDF]](/docs/Kinlock_et_al_2020_FWB.pdf) [doi]](https://doi.org/10.1111/fwb.13494)
+**Kinlock, NL**, AJ Laybourn, CE Murphy, JJ Hoover, and NA Friedenberg. 2020. Modelling bioenergetic and population‐level impacts of invasive bigheaded carps (*Hypophthalmichthys* spp.) on native paddlefish (*Polyodon spathula*) in backwaters of the lower Mississippi River. *Freshwater Biology*, 65: 1086-1100. [[PDF]](/docs/Kinlock_et_al_2020_FWB.pdf) [[doi]](https://doi.org/10.1111/fwb.13494)
 
 Kattge, J, G Bonisch, S Diaz, S Lavorel, IC Prentice, ..., **NL Kinlock**, ... (729 coauthors). TRY plant trait database--enhanced coverage and open access. *Global Change Biology*, 26: 119-188. [[doi]](https://doi.org/10.1111/gcb.14904)
 
