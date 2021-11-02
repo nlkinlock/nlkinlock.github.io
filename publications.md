@@ -4,9 +4,9 @@ layout: default
 
 **Kinlock, NL**, SB Munch. *in press*. Interaction network structure and spatial patterns influence invasiveness and invasibility in a stochastic model of plant communities. *Oikos*. [[doi]](https://doi.org/10.1111/oik.08453)
 
-**Kinlock, NL**, CM Foley, GC Sbeglia, and RH Nehm. 2020. A Lesson on Matter and Energy at the Organismal Scale: Linking Patterns and Processes Across Diverse Taxa. *CourseSource*. [[link]](https://qubeshub.org/community/groups/coursesource/publications?id=2698&v=1) 
-
 **Kinlock, NL**. 2021. Uncovering structural features that underlie coexistence in an invaded woody plant community with interaction networks at multiple life stages. *Journal of Ecology*, 109(1): 384-398. [[doi]](https://doi.org/10.1111/1365-2745.13489)
+
+**Kinlock, NL**, CM Foley, GC Sbeglia, and RH Nehm. 2020. A Lesson on Matter and Energy at the Organismal Scale: Linking Patterns and Processes Across Diverse Taxa. *CourseSource*. [[link]](https://qubeshub.org/community/groups/coursesource/publications?id=2698&v=1) 
 
 **Kinlock, NL**, AJ Laybourn, CE Murphy, JJ Hoover, and NA Friedenberg. 2020. Modelling bioenergetic and population‐level impacts of invasive bigheaded carps (*Hypophthalmichthys* spp.) on native paddlefish (*Polyodon spathula*) in backwaters of the lower Mississippi River. *Freshwater Biology*, 65: 1086-1100. [[PDF]](/docs/Kinlock_et_al_2020_FWB.pdf) [[doi]](https://doi.org/10.1111/fwb.13494)
 
