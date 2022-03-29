@@ -2,7 +2,9 @@
 layout: default
 ---
 
-**Kinlock, NL**, SB Munch. *in press*. Interaction network structure and spatial patterns influence invasiveness and invasibility in a stochastic model of plant communities. *Oikos*. [[doi]](https://doi.org/10.1111/oik.08453)
+**Kinlock, NL**, K Dehnen-Schmutz, F Essl, J Pergl, P Py&#0289;ek, H Kreft, P Weigelt, Q Yang, M van Kleunen. *in press*. Introduction history mediates naturalization and invasiveness of cultivated plants. *Global Ecology and Biogeography*. [[PDF]](/docs/Kinlock_et_al_2022_GEB.pdf) [[doi]](http://doi.org/)
+
+**Kinlock, NL**, SB Munch. 2021. Interaction network structure and spatial patterns influence invasiveness and invasibility in a stochastic model of plant communities. *Oikos*, 130(11): 2040-2052. [[doi]](https://doi.org/10.1111/oik.08453)
 
 **Kinlock, NL**. 2021. Uncovering structural features that underlie coexistence in an invaded woody plant community with interaction networks at multiple life stages. *Journal of Ecology*, 109(1): 384-398. [[doi]](https://doi.org/10.1111/1365-2745.13489)
 
