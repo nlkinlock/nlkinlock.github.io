@@ -9,33 +9,40 @@ img.center {
 }
 
 html,body,code,form {
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: sans-serif;
+	font-style: normal;
+	font-weight: 400;
 	background: #ffffff;
 }
 
 .highlight {
-	font-family: 'Nunito', sans-serif;
+	font-family: sans-serif;
+	font-style: normal;
+	font-weight: 400;
 	background: #ffffff;
 }
 
 #container {
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: sans-serif;
+	font-style: normal;
+	font-weight: 400;
 	background: #ffffff;
 }
 
 a {
-  font-weight: normal;
-  color: #044DBD;
+	font-style: normal;
+	font-weight: 400;
+	color: #044DBD;
 }
 
 a:hover {
-  opacity: 0.5;
-  color: #044DBD;
+	opacity: 0.5;
+	color: #044DBD;
 }
 
 
 form {
-  background: #ffffff;
+	background: #ffffff;
 }
 
 hr {
@@ -61,8 +68,6 @@ footer {
 	border-top: 1px dashed #ccc;
 	background: #ffffff;
 }
-
-
 
 .flex-container {
   flex-direction: row;
@@ -97,6 +102,4 @@ footer {
 	height: auto;
   }
 }
-
-
 

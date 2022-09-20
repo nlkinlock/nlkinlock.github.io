@@ -2,16 +2,6 @@
 <html lang="en-US">
 
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-SQDWJGN99P"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-SQDWJGN99P');
-</script>
-
   <head>
 
 	<meta name="google-site-verification" content="LYVuNXLeCKbzJgryLnEGzyW4uqlRMoPEaBb4h5p2byY" />
@@ -22,23 +12,22 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="stylesheet" href="/assets/css/style.css?v=">
     <link rel="stylesheet" type="text/css" href="/assets/css/print.css" media="print">
-	<link href="https://fonts.googleapis.com/css?family=Nunito&display=swap" rel="stylesheet"> 
-	<!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
 
-<!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>Nicole Kinlock | Ph.D. candidate at Stony Brook University studying plant community ecology</title>
-<meta name="generator" content="Jekyll v3.8.5" />
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Nicole Kinlock | Postdoctoral researcher in plant ecology</title>
+<meta name="generator" content="Jekyll v3.9.2" />
 <meta property="og:title" content="Nicole Kinlock" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Ph.D. candidate at Stony Brook University studying plant community ecology" />
-<meta property="og:description" content="Ph.D. candidate at Stony Brook University studying plant community ecology" />
-<link rel="canonical" href="http://localhost:4000/" />
-<meta property="og:url" content="http://localhost:4000/" />
+<meta name="description" content="Postdoctoral researcher in plant ecology" />
+<meta property="og:description" content="Postdoctoral researcher in plant ecology" />
+<link rel="canonical" href="https://nlkinlock.github.io/" />
+<meta property="og:url" content="https://nlkinlock.github.io/" />
 <meta property="og:site_name" content="Nicole Kinlock" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Nicole Kinlock" />
 <script type="application/ld+json">
-{"@type":"WebSite","url":"http://localhost:4000/","headline":"Nicole Kinlock","name":"Nicole Kinlock","description":"Ph.D. candidate at Stony Brook University studying plant community ecology","@context":"http://schema.org"}</script>
+{"@context":"https://schema.org","@type":"WebSite","description":"Postdoctoral researcher in plant ecology","headline":"Nicole Kinlock","name":"Nicole Kinlock","url":"https://nlkinlock.github.io/"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -64,9 +53,7 @@
         <hr>
 
         <section id="main_content">
-          <p>I am a Ph.D. candidate in <a href="https://gurevitchlab.weebly.com/" target="_blank">Dr. Jessica Gurevitch’s</a> lab in the Department of Ecology &amp; Evolution at Stony Brook University. I study <b>plant community ecology</b>, <b>species interactions</b>, <b>biological invasions</b>, and <b>research synthesis</b>.</p>
-
-<p>For my dissertation, I am using network approaches to quantify plant community structure, with the goal of better understanding biological invasions. To do this, I use a combination of meta-analysis, greenhouse/field experiments, and large-scale stochastic spatial simulations.</p>
+          <p>I am an ecologist working as a Postdoctoral Researcher in Mark van Kleunen’s lab at the University of Konstanz. I am broadly interested in the role of cultivation in plant naturalization and invasion and the influence of interaction networks on structure and function in communities. I maintain diverse interests in species interactions, macroecological patterns, research synthesis methods, and biology education research.</p>
 
 <p align="center">
 <img width="280" src="images/me.jpg" />
@@ -82,7 +69,85 @@
       </div>
     </div>
 
-    
+	<style>
+    #cookie-notice {padding: 0.5rem 1rem; display: none; text-align: center; position: fixed; bottom: 0; width: calc(100% - 2rem); background: #222; color: rgba(255,255,255,0.8);}
+    #cookie-notice a {display: inline-block; cursor: pointer; margin-left: 0.5rem;}
+    @media (max-width: 767px) {
+        #cookie-notice span {display: block; padding-top: 3px; margin-bottom: 1rem;}
+        #cookie-notice a {position: relative; bottom: 4px;}
+    }
+</style>
+<div id="cookie-notice"><span>This site uses third party cookies and scripts to improve functionality.</span>
+    <a id="cookie-notice-accept" class="btn btn-primary btn-sm">Approve</a>
+    <a id="cookie-notice-deny" class="btn btn-primary btn-sm">Deny</a>
+    <a href="/privacy" class="btn btn-primary btn-sm">More information</a></div>
+<script>
+    function createCookie(name,value,days) {
+        var expires = "";
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days*24*60*60*1000));
+            expires = "; expires=" + date.toUTCString();
+        }
+        document.cookie = name + "=" + value + expires + "; path=/";
+    }
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for(var i=0;i < ca.length;i++) {
+            var c = ca[i];
+            while (c.charAt(0)==' ') c = c.substring(1,c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+        }
+        return null;
+    }
+    function eraseCookie(name) {
+        createCookie(name,"",-1);
+    }
+
+    if(readCookie('cookie-notice-option')=='true') {
+        
+            /*This function will load script and call the callback once the script has loaded*/
+
+function loadScriptAsync(scriptSrc, callback) {
+    if (typeof callback !== 'function') {
+        throw new Error('Not a valid callback for async script load');
+    }
+    var script = document.createElement('script');
+    script.onload = callback;
+    script.src = scriptSrc;
+    document.head.appendChild(script);
+}
+
+/* This is the part where you call the above defined function and "calls back" your code which gets executed after the script has loaded */
+
+loadScriptAsync('https://www.googletagmanager.com/gtag/js?id=UA-141680196-1', function () {
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'UA-141680196-1', { 'anonymize_ip': true });
+})
+
+        
+    } else if (readCookie('cookie-notice-option')!='false'){
+        document.getElementById('cookie-notice').style.display = 'block';
+    }
+
+    document.getElementById('cookie-notice-accept').addEventListener("click",function() {
+        createCookie('cookie-notice-option','true',31);
+        document.getElementById('cookie-notice').style.display = 'none';
+        location.reload();
+    });
+
+    document.getElementById('cookie-notice-deny').addEventListener("click",function() {
+        createCookie('cookie-notice-option','false',31);
+        document.getElementById('cookie-notice').style.display = 'none';
+        location.reload();
+    });
+
+</script>
+
+
   </body>
 </html>
 
