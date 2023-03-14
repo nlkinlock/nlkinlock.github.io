@@ -2,50 +2,37 @@
 layout: default
 ---
 
-**Research keywords**
+**Cultivation and invasion**
 
-<span style="color:#044DBD;">
-*plant community ecology, species interactions, biological invasions, spatial simulations, meta-analysis, network ecology, Bayesian hierarchical modeling*
-</span>
+My postdoctoral research reflects my interest in cultivation, and a major part of my research involves leading the construction of a global database of cultivated plants.  Broadly, I'm interested in understanding the way that traits of cultivated plants and the environment (both the present-day and historical environment) in which plants are cultivated influence which plants establish in a new area.
+
+Knowing what species were cultivated, when they were cultivated, and where they were cultivated is important for understanding why only some of the plants that were introduced to a new area and cultivated there establish and potentially become invasive while others do not (see [Kinlock *et al.* 2022 *GEB*](https://doi.org/10.1111/geb.13486) for an analysis of plants introduced/cultivated in Great Britain).
+
+I have also been investigating historical patterns of cultivation, which are important because the plants that people have cultivated in an area over time create an ecological and evolutionary context that influences the environment as we experience it today (see [Kinlock *et al.* 2022 *PPP*](https://doi.org/10.1002/ppp3.10336) for an exploration of this context in the US).
 
 
-**Dissertation work**
+**The structure of plant interactions in communities**
 
-*Meta-analysis of plant interaction networks*
+This line of research was the basis of my dissertation work, and can be split into three parts:
 
-I characterized plant communities as networks and combined network metrics using meta-analysis to make generalizations about plant community structure with a quantitative foundation.
+*Characterizing the structure of plant-plant interactions in communities via a meta-analysis of plant interaction networks*
 
-*Fieldwork and greenhouse experiments of plant interactions*
+I gathered estimates of plant-plant interactions from 31 communities in the literature, and re-interpreted them as networks of plant competition and facilitation. I calculated network metrics and combined the metrics across communities using meta-analysis to make generalizations about plant community structure with a quantitative foundation. I found that competition was the dominant interaction, but its average intensity was not particularly strong. The average intensity of intraspecific interactions was not significantly different from interspecific interactions. Overall, interactions were imbalanced and communities were transitive. However, within some individual networks, facilitation, strong intraspecific competition, balanced interactions, and intransitivity were observed. Additionally, I found that the prevalence of competitive, imbalanced interactions, and transitive patterns may have been systematically biased as a result of the types of experiments and study systems favored by plant ecologists ([Kinlock 2019](https://doi.org/10.1086/705293)).
 
-I conducted large scale field and garden experiments in an old field woody plant community with native and invasive species in order to quantify community-level interaction structure using network theory.
+*Multilevel network architecture of plant-plant interactions in an invaded old field community*
 
-I also measured pairwise and three-species interactions among invasive and native woody old field plants in greenhouse experiments to determine whether pairwise interactions can predict three-species interactions.
+I conducted a field and garden experiment in an old field at the Yale Myers Forest in northeastern Connecticut to measure all interactions between woody species at multiple life stages: between seedlings and between seedlings and adults. I used these pairwise interactions as the basis for an analysis of the network-level structure of the community. I sought to bring a new perspective to our interpretation of plant community structure, rather than viewing plant-plant interactions as the sum of competitive effects and responses in a community, I envisioned a more complex system of network interactions at multiple scales. I translated mechanisms for species coexistence into the corresponding network structural features that would be expected if these mechanisms are operating in plant communities. By characterizing network architecture at the scale of an entire community (comparing interactions at different life stages), the substructures that compose the network, and species' roles within substructures, I found a mixture of both stabilizing and destabilizing network structures, involving intransitive and transitive substructures of different sizes and with different intensities among seedlings and nestedness in the relationships between seedlings and adults. I also found that intransitive substructures were not exclusively stabilizing, transitive structures were not exclusively destabilizing, and the expected outcomes of interactions among species at one life stage were contrary to the expected outcomes at a different life stage ([Kinlock 2021](https://doi.org/10.1111/1365-2745.13489)).
 
-*Spatial simulations of invaded plant communities*
+*Testing invasiveness and community invasibility using spatial simulations of invasion*
 
-We used stochastic spatial lattice simulations of plant community dynamics to understand what aspects of community structure influence invasibility and what invader characteristics influence invasiveness. These simulations were carried out using a parallelized C++ program that I co-wrote, [ecolattice](https://github.com/dsjamieson/ecolattice).
-
+We used stochastic spatial lattice simulations of plant community dynamics to understand what aspects of community structure influence invasibility and what invader characteristics influence invasiveness. Resident communities were invaded with alien species with different life history traits and competitive abilities in order to determine which characteristics of the alien species contributed most to their invasiveness. Communities with different species richnesses and interaction network structures (transitive hierarchies, reversed transitive hierarchies representing a growth versus fecundity trade-off, and intransitive loops) were simulated to determine which characteristics of the resident community contributed most to its invasibility. These simulations were carried out using a parallelized C++ program that I co-wrote, [ecolattice](https://github.com/dsjamieson/ecolattice). We found that communities with more species were more resistant to invasion, and that communities in which competition was intransitive were more invasible, while communities with transitive competition were more resistant to invasion though there was a complex interaction with species richness. Among high-richness communities, those with reversed competitive hierarchies at different life stages were the most resistant to invasion. While the relationship was complex, structural features that promoted species coexistence in communities were generally associated with an increase in invasibility. We also found that invasiveness was primarily driven by life history, including fecundity and dispersal abilities. Alien species’ invasiveness was not associated with their competitive effect on the resident community, but rather with their competitive response. Last, we found that spatial patterns in the resident community were associated with invasion; communities with more intraspecific clustering and interspecific segregation were more invasible, both patterns that are associated with increased niche differentiation among species ([Kinlock & Munch 2021](https://doi.org/10.1111/oik.08453)).
 
 **Other projects**
 
-+ I have led and been a part of several meta-analyses to quantify evidence and to document patterns about well-known ecological phenomena, including the latitudinal diversity gradient and the correlation between native and exotic species richness at many spatial scales and extents. I'm generally interested in how meta-analysis can be used to answer ecological questions, especially by using hierarchical meta-analytic models to partition variation.
++ I have led and been a part of several meta-analyses to quantify evidence and to document patterns about well-known ecological phenomena, including the latitudinal diversity gradient ([Kinlock *et al.* 2017 *GEB*](https://doi.org/10.1111/geb.12665)) and the correlation between native and exotic species richness at many spatial scales and extents ([Peng *et al.* 2019 *Ecology*](https://doi.org/10.1002/ecy.2552)). I'm also more generally interested in how meta-analysis can be used to answer ecological questions, especially by using hierarchical meta-analytic models to partition variation.
 
-+ I've helped design undergraduate biology teaching and assessment materials that are structured using the core concepts of AAAS Vision and Change Undergraduate Biology Education Initiative. We specifically focus on pathways and transformations of matter and energy, a concept crucial for understanding current issues like climate change.
++ I've helped design undergraduate biology teaching and assessment materials that are structured using the core concepts of AAAS Vision and Change Undergraduate Biology Education Initiative. We specifically focus on pathways and transformations of matter and energy, a concept crucial for understanding current issues like climate change ([Kinlock *et al.* 2020 *CourseSource*](https://qubeshub.org/publications/2698)).
 
-+ I've worked with a team designing and implementing a population dynamic simulation, informed by bioenergetic models, that estimates the impacts of invasive carp on native paddlefish in the Mississippi River.
++ I've worked with a team designing and implementing a population dynamic simulation, informed by bioenergetic models, that estimates the impacts of invasive carp on native paddlefish in the Mississippi River ([Kinlock *et al.* 2020 *Freshw Biol*](https://doi.org/10.1111/fwb.13494)).
 
-+ I was a part of a project assessing the potential risk of biological invasions on green roofs, including the risk of planted invasive plants spreading from green roofs as well as the risk of invasive plants dispersing to and establishing on green roofs.
-
-+ I quantified the diversity of macroinvertebrate communities in small ponds within a human-dominated urban/suburban matrix, in detention ponds as well as created and natural wetlands.
-
-<p align = "center">
-
-<img src="images/oldfield.jpg"><br>
-
-<img src="images/oldfieldsetup.jpg"><br>
-
-<img src="images/conetainers.jpg">
-
-</p>
-
-*Images of my field site in the Yale Myers Forest in northeastern Connecticut, an old field with a patchy mixture of native and invasive shrubs, along with plenty of forbs and grasses (also featured:* Berberis thunbergii *seedlings in the greenhouse).*
++ I was a part of a project assessing the potential risk of biological invasions on green roofs, including the risk of planted invasive plants spreading from green roofs as well as the risk of invasive plants dispersing to and establishing on green roofs ([Kinlock *et al.* 2015 *Isr J Ecol Evol*](https://doi.org/10.1080/15659801.2015.1028143)).

@@ -2,7 +2,9 @@
 layout: default
 ---
 
-**Kinlock, NL**, K Dehnen-Schmutz, F Essl, J Pergl, P Py&#0353;ek, H Kreft, P Weigelt, Q Yang, M van Kleunen. *in press*. Introduction history mediates naturalization and invasiveness of cultivated plants. *Global Ecology and Biogeography*. [[PDF]](/docs/Kinlock_et_al_2022_GEB.pdf) [[doi]](http://doi.org/)
+**Kinlock, NL**, DW Adams, M van Kleunen. 2022. An ecological and evolutionary perspective of the historical US nursery flora. *Plants, People, Planet*, 5(1): 146-159. [[PDF]](/docs/Kinlock_et_al_2022_PPP.pdf) [[doi]](http://doi.org/10.1002/ppp3.10336)
+
+**Kinlock, NL**, K Dehnen-Schmutz, F Essl, J Pergl, P Py&#0353;ek, H Kreft, P Weigelt, Q Yang, M van Kleunen. 2022. Introduction history mediates naturalization and invasiveness of cultivated plants. *Global Ecology and Biogeography*, 31(6): 1104-1119. [[PDF]](/docs/Kinlock_et_al_2022_GEB.pdf) [[doi]](http://doi.org/10.1111/geb.13486)
 
 **Kinlock, NL**, SB Munch. 2021. Interaction network structure and spatial patterns influence invasiveness and invasibility in a stochastic model of plant communities. *Oikos*, 130(11): 2040-2052. [[doi]](https://doi.org/10.1111/oik.08453)
 
