@@ -7,7 +7,7 @@ github: [metadata]
 url: "https://nlkinlock.github.io" # the base hostname & protocol for your site
 twitter_username: nlkinlock
 github_username:  nlkinlock
-google_analytics: UA-141680196-1
+google_analytics: G-SQDWJGN99P
 permalink: /blog/:year/:month/:title.html
 plugins:
   - jekyll-sitemap
