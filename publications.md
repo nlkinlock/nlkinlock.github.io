@@ -2,11 +2,19 @@
 layout: default
 ---
 
-**Kinlock, NL**, DW Adams, M van Kleunen. 2022. An ecological and evolutionary perspective of the historical US nursery flora. *Plants, People, Planet*, 5(1): 146-159. [[PDF]](/docs/Kinlock_et_al_2022_PPP.pdf) [[doi]](http://doi.org/10.1002/ppp3.10336)
+Guo, K, P Py&#0353;ek, M van Kleunen, **NL Kinlock**, M Lu&#0269;canov&#0225;, IJ Leitch, S Pierce, W Dawson, F Essl, H Kreft, B Lenzner, J Pergl, P Weigelt, and W-Y Guo. 2024. Plant invasion and naturalization are influenced by genome size, ecology and economic use globally. *Nature Communications*, 15(1): 1330. [[doi]](https://doi.org/10.1038/s41467-024-45667-4)
 
-**Kinlock, NL**, K Dehnen-Schmutz, F Essl, J Pergl, P Py&#0353;ek, H Kreft, P Weigelt, Q Yang, M van Kleunen. 2022. Introduction history mediates naturalization and invasiveness of cultivated plants. *Global Ecology and Biogeography*, 31(6): 1104-1119. [[PDF]](/docs/Kinlock_et_al_2022_GEB.pdf) [[doi]](http://doi.org/10.1111/geb.13486)
+Dong, B, Q Yang, **NL Kinlock**, R Pouteau, P Py&#0353;ek, P Weigelt, F Yu, and M van Kleunen. 2024. Naturalization of introduced plants is driven by life‐form‐dependent cultivation biases. *Diversity and Distributions*, 30(1): 55-70. [[doi]](https://doi.org/10.1111/ddi.13788)
 
-**Kinlock, NL**, SB Munch. 2021. Interaction network structure and spatial patterns influence invasiveness and invasibility in a stochastic model of plant communities. *Oikos*, 130(11): 2040-2052. [[doi]](https://doi.org/10.1111/oik.08453)
+Fristoe, TS, J Bleilevens, **NL Kinlock**, Q Yang, Z Zhang, W Dawson, F Essl, H Kreft, J Pergl, P Py&#0353;ek, P Weigelt, JM Dufour-Dror, AN Sennikov, P Wasowicz, KB Westergaard, and M van Kleunen. 2023. Evolutionary imbalance, climate and human history jointly shape the global biogeography of alien plants. *Nature Ecology & Evolution*, 7(10): 1633–1644. [[doi]](https://doi.org/10.1038/s41559-023-02172-z)
+
+Fertakos, ME, EM Beaury, NR Ford, **NL Kinlock**, DW Adams, and BA Bradley. 2023. Historical Plant Sales (HPS) database: Documenting the spatiotemporal history of plant sales in the conterminous U.S. *Ecology*, 104(7): e4106. [[doi]](https://doi.org/10.1002/ecy.4106)
+
+**Kinlock, NL**, DW Adams, and M van Kleunen. 2022. An ecological and evolutionary perspective of the historical US nursery flora. *Plants, People, Planet*, 5(1): 146-159. [[PDF]](/docs/Kinlock_et_al_2022_PPP.pdf) [[doi]](http://doi.org/10.1002/ppp3.10336)
+
+**Kinlock, NL**, K Dehnen-Schmutz, F Essl, J Pergl, P Py&#0353;ek, H Kreft, P Weigelt, Q Yang, and M van Kleunen. 2022. Introduction history mediates naturalization and invasiveness of cultivated plants. *Global Ecology and Biogeography*, 31(6): 1104-1119. [[PDF]](/docs/Kinlock_et_al_2022_GEB.pdf) [[doi]](http://doi.org/10.1111/geb.13486)
+
+**Kinlock, NL** and SB Munch. 2021. Interaction network structure and spatial patterns influence invasiveness and invasibility in a stochastic model of plant communities. *Oikos*, 130(11): 2040-2052. [[doi]](https://doi.org/10.1111/oik.08453)
 
 **Kinlock, NL**. 2021. Uncovering structural features that underlie coexistence in an invaded woody plant community with interaction networks at multiple life stages. *Journal of Ecology*, 109(1): 384-398. [[doi]](https://doi.org/10.1111/1365-2745.13489)
 
