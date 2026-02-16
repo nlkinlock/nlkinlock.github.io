@@ -2,9 +2,15 @@
 layout: default
 ---
 
+**Kinlock, NL**, DW Adams, W Dawson, F Essl, J Kartesz, H Kreft, M Nishino, J Pergl, P Py&#0353;ek, P Weigelt, and M van Kleunen. 2025. Naturalization of ornamental plants in the United States depends on cultivation and historical land cover context. *Ecography*, 12: e07748. [[PDF]](/docs/Kinlock_et_al_2025_Ecog.pdf){:target="_blank"} [[doi]](https://doi.org/10.1002/ecog.07748)
+
+Paudel, R, TS Fristoe, **NL Kinlock**, AJS Davis, W Zhao, H Van Calster, M Chytr&#0253;, J Danihelka, G Decocq, L Ehrendorfer-Schratt, K Guo, W-Y Guo, Z Kaplan, S Pierce, J Wild, W Dawson, F Essl, H Kreft, J Pergl, P Py&#0353;ek, M Winter, P Weigelt, and M van Kleunen. Many plants naturalized as aliens abroad have also become more common within their native regions. *Nature Communications*, 16(1): 8227. [[doi]](https://doi.org/10.1038/s41467-025-63293-6)
+
+Dong B-C, R Dong, Q Yang, **NL Kinlock**, F-H Yu, and M van Kleunen. Predicting invasion success of naturalized cultivated plants in China. *Journal of Applied Ecology*, 62(3): 651-660. [[doi]](https://doi.org/10.1111/1365-2664.14873)
+
 Guo, K, P Py&#0353;ek, M van Kleunen, **NL Kinlock**, M Lu&#0269;anov&#0225;, IJ Leitch, S Pierce, W Dawson, F Essl, H Kreft, B Lenzner, J Pergl, P Weigelt, and W-Y Guo. 2024. Plant invasion and naturalization are influenced by genome size, ecology and economic use globally. *Nature Communications*, 15(1): 1330. [[doi]](https://doi.org/10.1038/s41467-024-45667-4){:target="_blank"}
 
-Dong, B, Q Yang, **NL Kinlock**, R Pouteau, P Py&#0353;ek, P Weigelt, F Yu, and M van Kleunen. 2024. Naturalization of introduced plants is driven by life‐form‐dependent cultivation biases. *Diversity and Distributions*, 30(1): 55-70. [[doi]](https://doi.org/10.1111/ddi.13788){:target="_blank"}
+Dong, B-C, Q Yang, **NL Kinlock**, R Pouteau, P Py&#0353;ek, P Weigelt, F Yu, and M van Kleunen. 2024. Naturalization of introduced plants is driven by life‐form‐dependent cultivation biases. *Diversity and Distributions*, 30(1): 55-70. [[doi]](https://doi.org/10.1111/ddi.13788){:target="_blank"}
 
 Fristoe, TS, J Bleilevens, **NL Kinlock**, Q Yang, Z Zhang, W Dawson, F Essl, H Kreft, J Pergl, P Py&#0353;ek, P Weigelt, JM Dufour-Dror, AN Sennikov, P Wasowicz, KB Westergaard, and M van Kleunen. 2023. Evolutionary imbalance, climate and human history jointly shape the global biogeography of alien plants. *Nature Ecology & Evolution*, 7(10): 1633–1644. [[doi]](https://doi.org/10.1038/s41559-023-02172-z){:target="_blank"}
 
