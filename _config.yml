@@ -5,12 +5,12 @@ email: nlkinlock@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog/
 github: [metadata]
 url: "https://nlkinlock.github.io" # the base hostname & protocol for your site
-twitter_username: nlkinlock
 github_username:  nlkinlock
 google_analytics: G-SQDWJGN99P
 permalink: /blog/:year/:month/:title.html
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Build settings
 markdown: kramdown

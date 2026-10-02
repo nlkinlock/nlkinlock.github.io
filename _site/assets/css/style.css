@@ -187,13 +187,15 @@ footer a:hover { color: #444; }
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 img.center { display: block; margin: 0 auto; }
 
-html, body, code, form { font-family: 'Nunito', sans-serif; font-style: normal; font-weight: 400; background: #ffffff; }
+img.image-shrink { width: 16px; height: auto; display: block; }
 
-.highlight { font-family: 'Nunito', sans-serif; font-style: normal; font-weight: 400; background: #ffffff; }
+html, body, code, form { font-family: 'Roboto', sans-serif; font-style: normal; font-weight: 400; background: #ffffff; }
 
-#container { font-family: 'Nunito', sans-serif; font-style: normal; font-weight: 400; background: #ffffff; }
+.highlight { font-family: 'Roboto', sans-serif; font-style: normal; font-weight: 400; background: #ffffff; }
 
-a { font-style: normal; font-weight: 400; color: #044DBD; }
+#container { font-family: 'Roboto', sans-serif; font-style: normal; font-weight: 400; background: #ffffff; }
+
+a { font-style: normal; color: #044DBD; }
 
 a:hover { opacity: 0.5; color: #044DBD; }
 
@@ -201,11 +203,17 @@ form { background: #ffffff; }
 
 hr { border: 0; height: 0; line-height: 0; padding-bottom: 0; margin-top: 0; border-bottom: 1px dashed #ccc; background: #ffffff; }
 
-footer { text-align: center; font-size: 0.5em; padding-bottom: 0; padding-top: 10px; margin-top: 0; border: 0; height: 0; line-height: 0; border-top: 1px dashed #ccc; background: #ffffff; }
+footer { text-align: center; font-size: 0.5em; padding-bottom: 0; padding-top: 10px; margin-top: 0; border: 0; border-top: 1px dashed #ccc; background: #ffffff; }
 
-.flex-container { flex-direction: row; padding: 0; margin: 0; list-style: none; justify-content: space-around; -ms-box-orient: horizontal; display: -webkit-box; display: -moz-box; display: -ms-flexbox; display: -moz-flex; display: -webkit-flex; display: flex; }
+.flex-container { display: flex; flex-direction: row; align-items: center; justify-content: space-around; padding: 0; margin: 0; list-style: none; }
 
 .flex-item { list-style: none; padding: 0; margin: 10px; font-size: 1.3em; text-align: center; }
 
-@media all and (max-width: 600px) { .flex-container { flex-wrap: wrap; }
-  img.image-shrink { width: 70%; height: auto; } }
+.flex-item a { font-weight: 600; }
+
+@media all and (max-width: 600px) { .flex-container { flex-wrap: wrap; } }
+#main_content h1 { font-family: 'Merriweather Sans', sans-serif; font-size: 1.8rem; font-weight: 600; color: #044DBD; margin: 1.5rem 0 0.5rem; }
+
+#main_content h2 { font-family: 'Merriweather Sans', sans-serif; font-size: 1.3rem; font-weight: 600; color: #044DBD; margin: 1.2rem 0 0.4rem; padding-bottom: 0.2rem; }
+
+#main_content h3 { font-family: 'Merriweather Sans', sans-serif; font-size: 1.3rem; font-weight: 400; color: #222; margin: 1.2rem 0 0.4rem; padding-bottom: 0.2rem; }
